@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-const static int my_arrays[] = {1, 23, 17, 4, -5, 100};\
+const static int my_arrays[] = {1, 23, 17, 4, -5, 100};
 const static int *pointer;
 
 void int_copy(int arr[], int copy[], int size)
